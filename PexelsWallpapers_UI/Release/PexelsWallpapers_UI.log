@@ -1,0 +1,3 @@
+﻿  Source.cpp
+  LINK : /LTCG spécifié mais aucune génération de code requise ; supprimez /LTCG de la ligne de commande de l'édition de liens pour améliorer les performances de l'éditeur de liens
+  PexelsWallpapers_UI.vcxproj -> F:\Perso\Programmation\Perso\Cpp\PexelsWallpapers_UI\Release\PexelsWallpapers.exe

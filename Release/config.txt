@@ -1,0 +1,23 @@
+# Pexels Wallpaper v1.0  -  Philippe Jaubert
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
+# Please insert every keywords you're interested in, at the end of this sharps ("#") list.
+# Every time you will start PexelsWallpaper,
+# it will apply as desktop wallpaper a random picture corresponding of one of thoses.
+# 
+# You can :
+#     Search one or multiples entities :                              "technology face"          (i.e. http://www.pexels.com/search/technology%20face/)
+#     Exclude one or multiples entities :                             "technology -apple"        (i.e. http://www.pexels.com/search/technology%20-apple/)
+#     Search just by color :                                          "color: black"             (i.e. http://www.pexels.com/search/color:%20black/)
+#     Search one or multiples entities and a color :                  "girl face blue"           (i.e. http://www.pexels.com/search/girl%20face%20blue/)
+#     Search one or multiples entities with predominating color :     "girl face color:blue"     (i.e. http://www.pexels.com/search/girl%20face%20color:blue/)
+# 
+# CREDITS:
+# Photos: Pexels.com
+# Nertwork lib: cUrl
+# Json Parser: rapidJson
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
+# Please insert you authorization access key here (ask at api@pexels.com to get one)
+Authorization: 000000000000000000000000000000000000000000000000000000
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - #
+
+abstract
