@@ -1,4 +1,6 @@
 # PexelsWallpaper
+*(This tool is not affiliated with, endorsed or associated in any way with Pexels.com)*
+
 This tool was made to choose a random photo on Pexels.com website (according to some choosen keywords) and apply it as wallpaper (for windows only).
 
 ![Preview](http://i.imgur.com/oLSIzBT.gif)
