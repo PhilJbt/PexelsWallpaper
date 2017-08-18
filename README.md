@@ -15,9 +15,9 @@ Exclude one or multiples entities :                             "technology -app
 
 Search just by color :                                          "color: black"             (i.e. http://www.pexels.com/search/color:%20black/)
 
-Search one or multiples entities and a color :                  "girl face blue"           (i.e. http://www.pexels.com/search/girl%20face%20blue/)
+Search one or multiples entities and a color :                  "woman face blue"           (i.e. http://www.pexels.com/search/woman%20face%20blue/)
 
-Search one or multiples entities with predominating color :     "girl face color:blue"     (i.e. http://www.pexels.com/search/girl%20face%20color:blue/)
+Search one or multiples entities with predominating color :     "man face color:blue"     (i.e. http://www.pexels.com/search/man%20face%20color:blue/)
 
 Get popular photos :                                            "popular"
  
