@@ -9,7 +9,7 @@ This tool was made to choose a random photo on Pexels.com website (according to 
 
 ------------------------------------------------------------------------------
 
-You can :
+You can insert one or multiple search :
 
 Search one or multiples entities :                              "technology face"          (i.e. http://www.pexels.com/search/technology%20face/)
 
@@ -20,8 +20,6 @@ Search just by color :                                          "color: black"  
 Search one or multiples entities and a color :                  "woman face blue"           (i.e. http://www.pexels.com/search/woman%20face%20blue/)
 
 Search one or multiples entities with predominating color :     "man face color:blue"     (i.e. http://www.pexels.com/search/man%20face%20color:blue/)
-
-Get popular photos :                                            "popular"
  
 CREDITS: Photos(Pexels.com) NertworkLib(cUrl) JsonParser(rapidJson)
 
